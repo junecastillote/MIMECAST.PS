@@ -1,5 +1,9 @@
 # MIMECAST.PS
 
+[![GitHub license](https://img.shields.io/github/license/junecastillote/MIMECAST.PS)](https://github.com/junecastillote/MIMECAST.PS/blob/main/LICENSE)
+[![GitHub issues](https://img.shields.io/github/issues/junecastillote/MIMECAST.PS)](https://github.com/junecastillote/MIMECAST.PS/issues)
+[![GitHub forks](https://img.shields.io/github/forks/junecastillote/MIMECAST.PS)](https://github.com/junecastillote/MIMECAST.PS/network)
+
  This project is a PowerShell module wrapper for the [Mimecast API](https://integrations.Mimecast.com/documentation/api-overview/).
 
  This module is a work in progress and only has a few functions included for now.
