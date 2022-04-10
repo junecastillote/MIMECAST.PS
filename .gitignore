@@ -1,0 +1,10 @@
+*.csv
+*.zip
+*.json
+*.yaml
+*.yml
+*.txt
+*.log
+output\*
+test*
+run*
