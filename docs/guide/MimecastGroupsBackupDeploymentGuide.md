@@ -254,4 +254,4 @@ Sample email notification (if enabled).
 
 ### Schedule the Backup
 
-You can now create a scheduled task in whichever scheduled you're using, such as in [Windows Task Scheduler](https://adamtheautomator.com/powershell-scheduled-task/) or [Jenkins](https://adamtheautomator.com/jenkins-powershell/).
+You can now create a scheduled task in whichever scheduler you're using, such as in [Windows Task Scheduler](https://adamtheautomator.com/powershell-scheduled-task/) or [Jenkins](https://adamtheautomator.com/jenkins-powershell/)
