@@ -14,6 +14,8 @@
 
 ## Release Notes
 
+Go to [Release Notes](release_notes.md).
+
 ## How To Install
 1. Download or clone the [main repository](https://github.com/junecastillote/MIMECAST.PS).
 2. Open PowerShell as admin.
